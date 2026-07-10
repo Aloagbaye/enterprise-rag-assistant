@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+gunicorn
+python-dotenv
+pydantic
+azure-identity
+azure-search-documents
+azure-keyvault-secrets
+openai
+opentelemetry-api
+opentelemetry-sdk
+azure-monitor-opentelemetry
+opentelemetry-instrumentation-fastapi
